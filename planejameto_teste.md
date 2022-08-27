@@ -40,4 +40,4 @@ Personas envolvidas: Professor, Aluno e Monitor.
 
 ### Página principal
 ![image](https://user-images.githubusercontent.com/48606497/187011459-0ddff0bc-a816-4f66-bdbb-7154c2e730d3.png)
->>>>>>> 62409f5bbb182ffff031f33d20c8d6265637136f
+
