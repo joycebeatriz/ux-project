@@ -1,7 +1,7 @@
 ### Perfil estético 
 
 #### Cores
-As cores escolhidas refletem um tom ameno e profissional que transmite tranquilidade, serenidade, harmonia e espiritualidade. Azul claro, tons pretos amenos e cinzas não agridem aos olhos e permitem que um grande tempo seja dedicado ao site sem exaustão visual.
+As cores escolhidas refletem um tom ameno e profissional que transmite tranquilidade, serenidade, harmonia e espiritualidade. Azul claro, tons pretos amenos e cinzas não agridem os olhos e permitem que um grande tempo seja dedicado ao site sem exaustão visual.
 
 #### Fonte
 ![image](https://user-images.githubusercontent.com/48606497/187011183-9e2f04cc-3487-4e08-92a5-51aaf8104006.png)
