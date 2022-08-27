@@ -27,3 +27,9 @@ Clique no link abaixo para que possa **visualizar** o sistema e **navegue** por 
 
 ![image](https://user-images.githubusercontent.com/48606497/187008135-7a5b1cd4-4bc6-4af3-84be-d5de1da8fb14.png)
 ![image](https://user-images.githubusercontent.com/48606497/187008170-c45cf79a-e0d0-449a-af8e-488b78c5f8d0.png)
+
+
+
+#### Observação
+Você poderá visualizar o sitemap do sistema clicando [aqui](https://github.com/joycebeatriz/ux-project/blob/main/sitemap.md)
+
