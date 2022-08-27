@@ -8,7 +8,7 @@ Clique no link abaixo para que possa **ver** o processo de criação dos frames.
 
 [Link de acesso](https://www.figma.com/file/Xc3ohIyWmEBqT58cfnHowK/UX?node-id=0%3A1)
 
-### Prototipo com a finalide de testes 
+### Teste do protótipo  
 Clique no link abaixo para que possa **visualizar** o sistema e **navegue** por suas interações. 
 
 [Link de acesso](https://www.figma.com/proto/Xc3ohIyWmEBqT58cfnHowK/UX---Projeto-Final?node-id=11%3A4&scaling=scale-down&page-id=0%3A1&starting-point-node-id=11%3A4)
